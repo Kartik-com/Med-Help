@@ -124,8 +124,8 @@ Contributions are welcome! If you're participating through **GSSOC**, follow the
 
 ## **📞 Contact**  
 💡 Have questions or want to contribute? Reach out!  
-📧 Email: your-email@example.com  
-🌐 GitHub: [your-username](https://github.com/TusharMinche)  
+📧 Email: tusharminche@gmail.com  
+🌐 GitHub: [TusharMinche](https://github.com/TusharMinche)  
 
 🚀 *Let's build a revolutionary healthcare system together!* 🎉  
 
